@@ -1,0 +1,1 @@
+This application recursively generates inner triangles by calculating midpoints of each side and repeatedly drawing smaller triangles until the side length is less than one pixel. The program demonstrates recursion, geometric computation, and 2D rendering using System.Drawing in Windows Forms.
